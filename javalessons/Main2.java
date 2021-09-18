@@ -1,4 +1,4 @@
-package com.acupofjava; 
+package com.javalessons; 
 import java.util.Date;
 public class Main2 {
     public static void main(String[] args) {

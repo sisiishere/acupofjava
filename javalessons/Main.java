@@ -1,4 +1,4 @@
-package com.acupofjava; 
+package com.javalessons; 
 public class Main {
     public static void main(String[] args) {
         int age = 27;
