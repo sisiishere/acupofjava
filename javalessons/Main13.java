@@ -1,9 +1,10 @@
 package com.javalessons;
+import java.text.NumberFormat;
 
-
-public class Main12{
+public class Main13{
 public static void main(String[] args) {
-    int result = (int)Math.floor(1.1F);
+   NumberFormat currency = NumberFormat.getCurrencyInstance();
+   String result = currency.format( number): 1234567.890);
     System.out.println(result);
-    }
+}
 }
