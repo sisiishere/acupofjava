@@ -8,7 +8,7 @@ public class Main17 {
         } else if(temp <20) {
             System.out.println("It's a cold day. Please, layer up.");
         } else {
-            System.out.println("It's a beautiful day. Please, enjoy it.")
+            System.out.println("It's a beautiful day. Please, enjoy it.");
         }
 
     }
