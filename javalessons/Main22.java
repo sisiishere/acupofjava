@@ -1,4 +1,4 @@
-package com.codewithmosh;
+package com.javalessons;
 
 public class Main22 {
     public static void main(String[] args) {
